@@ -31,6 +31,9 @@ namespace B326
             {
                 Console.WriteLine(p);
             }
+            // 値段が500以下になったものの要素数
+            int i = downPrice.Where( n => n <= 500).Count();
+            Console.WriteLine("赤字価格の商品個数 : {0}個", i);
         }
     }
 }
