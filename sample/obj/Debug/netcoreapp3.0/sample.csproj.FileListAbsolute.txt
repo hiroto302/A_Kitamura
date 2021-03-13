@@ -1,0 +1,11 @@
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample.deps.json
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample.runtimeconfig.json
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample.runtimeconfig.dev.json
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample.dll
+/Users/hiro302/C#/A_Kitamura/sample/bin/Debug/netcoreapp3.0/sample.pdb
+/Users/hiro302/C#/A_Kitamura/sample/obj/Debug/netcoreapp3.0/sample.csprojAssemblyReference.cache
+/Users/hiro302/C#/A_Kitamura/sample/obj/Debug/netcoreapp3.0/sample.AssemblyInfoInputs.cache
+/Users/hiro302/C#/A_Kitamura/sample/obj/Debug/netcoreapp3.0/sample.AssemblyInfo.cs
+/Users/hiro302/C#/A_Kitamura/sample/obj/Debug/netcoreapp3.0/sample.dll
+/Users/hiro302/C#/A_Kitamura/sample/obj/Debug/netcoreapp3.0/sample.pdb
